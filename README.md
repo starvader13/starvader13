@@ -1,6 +1,6 @@
 Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 </br>
-I'm Ashutosh aka <a href="https://github.com/starvader13" target="_blank">starvader13</a>
+I'm Ashutosh aka <a href="https://ashutoshgupta.dev" target="_blank">starvader13</a>
 -------------
 
 I develop intelligent machine learning and deep learning  solutions with modern and scalable backends, delivering seamless integration and user-friendly interfaces. My journey is all about open source and connections. 🚀
