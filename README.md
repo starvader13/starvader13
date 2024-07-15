@@ -3,10 +3,6 @@ Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-07859
 I'm Ashutosh aka <a href="https://ashutoshgupta.dev" target="_blank">starvader13</a>
 -------------
 
-I develop intelligent machine learning and deep learning  solutions with modern and scalable backends, delivering seamless integration and user-friendly interfaces. My journey is all about open source and connections. 🚀
-
-**Fun fact:** I consider myself in btech 2nd year though i am in 3rd year cause an array indexing starts from 0 🥳️🥳️
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=starvader13&label=Profile%20views&color=0e75b6&style=flat" alt="starvader13" /> </p>
                   
 ### Skills 
