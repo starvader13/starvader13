@@ -9,7 +9,7 @@
   I'm Ashutosh Gupta
 </h1>
 
-<h2 align="center">Building things drives me, and the fuel is learning new stuff everyday.</h2>
+<h3 align="left">Building things drives me, and the fuel is learning new stuff everyday.</h3>
 
 ###
 
@@ -26,7 +26,7 @@
   </a>
 </div>
 
-<h3 align="left">101 about me:<br><br>- 🔭 I’m working as Backend Engineer @Vance(YC W22)<br>- 📚 I'm an additive OSS contributor.<br>- ⚡ In my free time I do bike rides, code some fun stuff and play chess</h3>
+<p align="left"><b>101 about me:<b><br><br>- 🔭 I’m working as Backend Engineer @Vance(YC W22)<br>- 📚 I'm an additive OSS contributor.<br>- ⚡ In my free time I do bike rides, code some fun stuff and play chess</p>
 
 <h3 align="left">🔥   My Stats :</h3>
 
